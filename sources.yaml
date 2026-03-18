@@ -1,0 +1,24 @@
+hindi:
+  rss:
+    - https://www.amarujala.com/rss/breaking-news.xml
+    - https://www.bhaskar.com/rss-feed/1061/
+  scrape:
+    - https://www.ndtv.com/hindi
+  social_keywords: ["सुरक्षा", "आतंक", "सीमा", "सेना", "हमला"]
+
+urdu:
+  rss:
+    - https://jang.com.pk/rss
+    - https://www.geo.tv/rss
+  social_keywords: ["دہشت گردی", "سرحد", "فوج", "حملہ"]
+
+bengali:
+  rss:
+    - https://www.anandabazar.com/rss
+    - https://www.prothomalo.com/feed
+  social_keywords: ["সন্ত্রাস", "সীমান্ত", "নিরাপত্তা"]
+
+punjabi:
+  rss:
+    - https://ajitjalandhar.com/rss.xml
+  social_keywords: ["ਸੁਰੱਖਿਆ", "ਹਮਲਾ", "ਫ਼ੌਜ"]

@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Environment
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+.eslintcache
+
+# Vite
+.vite/
+
+# Database
+*.sqlite
+pgdata/
+
+# OS
+.DS_Store
+Thumbs.db
